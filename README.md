@@ -21,3 +21,7 @@ This is a Go application that collects phishing URLs from various sources and an
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/phishing-url-analyzer.git
+
+
+![image](https://github.com/user-attachments/assets/f0ee3f1b-8ba2-4af1-a5c9-5ff8108cd7df)
+
