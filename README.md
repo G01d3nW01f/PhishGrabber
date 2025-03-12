@@ -1,6 +1,6 @@
 # Phishing URL Collector and Analyzer
 
-This is a Go application that collects phishing URLs from various sources and analyzes them, providing output in either TXT or JSON format. The tool fetches known phishing URLs, filters them based on a specified time range, and performs basic analysis including HTTP status checks and IP resolution.
+This is a Go application that collects phishing URLs from sources and analyzes them, providing output in either TXT or JSON format. The tool fetches known phishing URLs, filters them based on a specified time range, and performs basic analysis including HTTP status checks and IP resolution.
 
 ## Features
 
